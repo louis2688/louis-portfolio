@@ -1,7 +1,13 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules
+npm-debug.log\
+*.env
+*.dev
+.DS_Store
+Dockerfile
+docker-compose.yml
 
 # testing
 /coverage
