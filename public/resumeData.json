@@ -20,12 +20,12 @@
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/",
+        "url": "https://www.facebook.com/louis2688",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/louis2688",
         "className": "fa fa-twitter"
       },
       {
@@ -35,17 +35,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/",
+        "url": "https://www.linkedin.com/in/louismadrigal/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/darkweb2688/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/",
+        "url": "https://github.com/louis2688",
         "className": "fa fa-github"
       },
       {
@@ -56,33 +56,27 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I have experience with php javascript ReactJS NodeJS Wordpress Bootstrap AWS.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
+        "school": "College",
+        "degree": "Associate Information Management",
+        "graduated": "March 2007",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Multisys Corporation",
+        "title": "Software Developer",
+        "years": "October 2019 - Present",
+        "description": "Work with framework like ReactJS and NodeJS in creating web and mobile games"
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Common Access",
+        "title": "Wordpress Developer",
+        "years": "April 2019 - October 2019",
+        "description": "Developer theme and plugin for wordpress"
       }
     ],
     "skills": [
@@ -91,28 +85,28 @@
         "level": "60%"
       },
       {
-        "name": "Illustrator",
-        "level": "55%"
+        "name": "ReactJS",
+        "level": "50%"
       },
       {
-        "name": "ReactJs",
+        "name": "NodeJS",
         "level": "50%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "75%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "Wordpress",
+        "level": "75%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "AWS",
+        "level": "50%"
       }
     ]
   },
