@@ -1,10 +1,12 @@
 {
   "main": {
     "name": "Louis Madrigal",
+    "fname": "Louis",
+    "lname": "Madrigal",
     "occupation": "Web Developer",
     "description": "With a 3 years experience of designing and developing user interface including web app and mobile app.",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "A weird guy who wants to solve problems. An introvert person as well. I love coding and learning new technologies.",
     "contactmessage": "Looking for a Dev? Contact me Here and lets talk and have coffee...",
     "email": "louismadrigal26@gmail.com",
     "phone": "+639677210188",
@@ -77,6 +79,24 @@
         "title": "Wordpress Developer",
         "years": "April 2019 - October 2019",
         "description": "Developer theme and plugin for wordpress"
+      },
+      {
+        "company": "LA Technologies",
+        "title": "Javascript Developer",
+        "years": "June 2018 – October 2018",
+        "description": "Develop web api and script for online gaming"
+      },
+      {
+        "company": "Inventiv Media",
+        "title": "Web Developer",
+        "years": "February 2018 – June 2018",
+        "description": "Develop website for clients"
+      },
+      {
+        "company": "Common Access",
+        "title": "Wordpress Developer",
+        "years": "April 2019 - October 2019",
+        "description": "Developer theme and plugin for wordpress"
       }
     ],
     "skills": [
@@ -93,6 +113,10 @@
         "level": "50%"
       },
       {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
         "name": "CSS",
         "level": "75%"
       },
@@ -107,52 +131,64 @@
       {
         "name": "AWS",
         "level": "50%"
+      },
+      {
+        "name": "RxJs",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap 4",
+        "level": "75%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "Agile Xpress",
+        "category": "This is an online learning platform",
+        "image": "AgileXPress-www.goagilexpress.com.png",
+        "url": "https://www.goagilexpress.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "The Audio Visual Co.",
+        "category": "Provide services for Audio Visual Operations",
+        "image": "theaudiovisualco.com.au.png",
+        "url": "https://www.theaudiovisualco.com.au"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Best Online Jewelry Store",
+        "category": "Online Store for Jewelry like necklace and earings",
+        "image": "nikouture.com.png",
+        "url": "https://nikouture.com"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Common Access",
+        "category": "A website for accessibility widget",
+        "image": "mycommonaccess.com.png",
+        "url": "https://mycommonaccess.com"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "title": "Music Artworks",
+        "category": "A website for audio visual, custom cover art and logo design services,",
+        "image": "music-artworks.com.png",
+        "url": "https://music-artworks.com"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "IKEA Phils",
+        "category": "A multinational group of companies the provide biggest furniture company in the world,",
+        "image": "www.ikea.ph.png",
+        "url": "https://www.ikea.ph"
+      },
+      {
+        "title": "Teriyakuys",
+        "category": "A restaurant website with delicious food such a steak and milk tea",
+        "image": "teriyakuys.com.png",
+        "url": "https://teriyakuys.com"
       }
     ]
   }
