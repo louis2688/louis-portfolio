@@ -91,6 +91,12 @@
         "title": "Web Developer",
         "years": "February 2018 – June 2018",
         "description": "Develop website for clients"
+      },
+      {
+        "company": "Common Access",
+        "title": "Wordpress Developer",
+        "years": "April 2019 - October 2019",
+        "description": "Developer theme and plugin for wordpress"
       }
     ],
     "skills": [
@@ -133,6 +139,10 @@
       {
         "name": "Bootstrap 4",
         "level": "75%"
+      },
+      {
+        "name": "AWS",
+        "level": "50%"
       }
     ]
   },
