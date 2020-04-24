@@ -171,7 +171,11 @@
         "category": "A website for accessibility widget",
         "image": "mycommonaccess.com.png",
         "url": "https://mycommonaccess.com"
-      },
+      }
+    ]
+  },
+  "portfolio2": {
+    "projects": [
       {
         "title": "Music Artworks",
         "category": "A website for audio visual, custom cover art and logo design services,",
