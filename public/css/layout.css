@@ -804,7 +804,7 @@ call-to-action .button {
 /* Hide the slides before the JS is loaded. Avoids image jumping */
 .flexslider .slides > li {
   display: none;
-  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 /* Suggested container for slide animation setups. Can replace this with your own */
 .flex-container {
@@ -940,7 +940,7 @@ call-to-action .button {
   font: 15px/24px "opensans-bold", sans-serif;
   margin: 12px 0;
   color: #ebeeee;
-  display: inline-block;
+  display: block;
   float: left;
   width: 26%;
 }

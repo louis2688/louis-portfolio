@@ -61,11 +61,11 @@ class Header extends Component {
         </nav>
 
         <div className="row banner">
+          <h3 className="responsive-headline">
+            Looking for Dev? {fname} here...
+          </h3>
           <Particles />
           <div className="banner-text">
-            <h1 className="responsive-headline">
-              Looking for Dev? {fname} here...
-            </h1>
             <h3>
               I'm from {country} based <span>{occupation}</span>. {description}.
             </h3>
