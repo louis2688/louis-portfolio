@@ -2,7 +2,7 @@
 
 ![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume")
 
-### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a>
+### <a href="https://louisportfolio.netlify.app">LIVE DEMO</a>
 
 ## Description
 
