@@ -28,7 +28,7 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/louis2688",  
+        "url": "https://twitter.com/louis2688",
         "className": "fa fa-twitter"
       },
       {
@@ -168,27 +168,15 @@
         "url": "https://nikouture.com"
       },
       {
-        "title": "Common Access",
-        "category": "A website for accessibility widget",
-        "image": "mycommonaccess.com.png",
-        "url": "https://mycommonaccess.com"
+        "title": "IKEA Phils",
+        "category": "A multinational group of companies the provide biggest furniture company in the world,",
+        "image": "www.ikea.ph.png",
+        "url": "https://www.ikea.ph"
       }
     ]
   },
   "portfolio2": {
     "projects": [
-      {
-        "title": "Music Artworks",
-        "category": "A website for audio visual, custom cover art and logo design services,",
-        "image": "music-artworks.com.png",
-        "url": "https://music-artworks.com"
-      },
-      {
-        "title": "IKEA Phils",
-        "category": "A multinational group of companies the provide biggest furniture company in the world,",
-        "image": "www.ikea.ph.png",
-        "url": "https://www.ikea.ph"
-      },
       {
         "title": "Teriyakuys",
         "category": "A restaurant website with delicious food such a steak and milk tea",
