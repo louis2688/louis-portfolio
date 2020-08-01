@@ -60,7 +60,7 @@ class App extends Component {
         >
           <span>
             Check more in my{" "}
-            <a href="https://github.com/louis2688" target="_blank">
+            <a href="https://github.com/louis2688" target="_blank" rel="noopener noreferrer">
               GITHUB
             </a>
           </span>

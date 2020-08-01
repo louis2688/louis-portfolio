@@ -4,11 +4,11 @@ import Particles from "react-particles-js";
 class Header extends Component {
   render() {
     if (this.props.data) {
-      var name = this.props.data.name;
+      // var name = this.props.data.name;
       var fname = this.props.data.fname;
       var occupation = this.props.data.occupation;
       var description = this.props.data.description;
-      var city = this.props.data.address.city;
+      // var city = this.props.data.address.city;
       var country = this.props.data.address.country;
       var networks = this.props.data.social.map(function (network) {
         return (
